@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #FFFFCA;
+}
+
+.headerImg{
+  width: auto;
+  height: 130px;
+  background-color: #EBA100;
+}
+
+#ruban {
+  height: 1000px;
+  margin-top: 15px;
+  margin-left: 80px;
+  margin-right: 80px;
+  background-color: #FFF49E;
+}
+
+
+#tab {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 170px;
+  border-collapse: separate;
+  border-spacing: 80px 20px;
+  font-family: "Bookman Old Style";
+}
+
+img {
+  height: 200px;
+  width:200px;
+}
+
+.button {
+  float: left;
+  margin-left: 250px;
+  margin-top: 20px;
+  padding:6px 0 6px 0;
+	font:Bold 13px Arial;
+	background:#d34836;
+	color:#fff;
+	width:90px;
+	border-radius:2px;
+	border:none;
+}
