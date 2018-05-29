@@ -5,8 +5,12 @@ body{
 
 .headerImg{
   width: auto;
-  height: 130px;
+  height: 110px;
   background-color: #EBA100;
+  background-image: url("pixelgame.png");
+  background-repeat: no-repeat;
+  background-size: 60%;
+  background-position: left;
 }
 
 #ruban {
